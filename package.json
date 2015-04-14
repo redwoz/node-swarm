@@ -1,0 +1,22 @@
+{
+	"name": "nodeswarm",
+	"version": "0.0.1",
+	"description": "",
+	"main": "index.js",
+	"keywords": [
+		"mongo",
+		"mongodb",
+		"sync",
+		"collection"
+	],
+	"scripts": {
+	},
+	"dependencies": {
+		"mongoose": "*",
+		"moment": "*"
+	},
+	"devDependencies": {},
+	"author": "redwoz",
+	"license": "MIT",
+	"repository": "https://github.com/redwoz/node-mdb-syncer.git"
+}
